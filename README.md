@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://ompatel.me](https://ompatel.me)
 
-- ⚡ If you know, you know **DROP TABLE 2lc3_database;**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/om-patel-16m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-patel-16m/" height="30" width="40" /></a>
